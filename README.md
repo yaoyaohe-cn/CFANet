@@ -23,4 +23,6 @@ bash scripts/etth2.sh
 bash scripts/electricity.sh
 bash scripts/traffic.sh
 bash scripts/weather.sh
+bash scripts/exchange.sh
+bash scripts/solar.sh
 ```
